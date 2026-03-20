@@ -1,1 +1,1 @@
-This is version 1.0 of the /rtp command for players and the /rtpreset player nickname command for admins, which allows you to set the RTP time to 5 minutes.
+This is a plugin for the Tshock engine-powered Terraria. You can use it on your server. This plugin adds RTP with a timeout setting in the configuration file. It currently has version .net 6. Let me know, and I can update it to version .net 9. Tshock 6.1.0.
