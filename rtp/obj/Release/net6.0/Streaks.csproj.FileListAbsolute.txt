@@ -1,0 +1,16 @@
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\Streaks.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\Streaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\Streaks.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\Streaks.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\Streaks.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Streaks\bin\Release\net6.0\OTAPI.dll
+C:\Users\ПК\Desktop\Streaks\bin\Release\net6.0\TerrariaServer.dll
+C:\Users\ПК\Desktop\Streaks\bin\Release\net6.0\TShockAPI.dll
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\Streaks.csproj.Up2Date
+C:\Users\ПК\Desktop\Streaks\bin\Release\net6.0\RTPPlugin.deps.json
+C:\Users\ПК\Desktop\Streaks\bin\Release\net6.0\RTPPlugin.dll
+C:\Users\ПК\Desktop\Streaks\bin\Release\net6.0\RTPPlugin.pdb
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\RTPPlugin.dll
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\refint\RTPPlugin.dll
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\RTPPlugin.pdb
+C:\Users\ПК\Desktop\Streaks\obj\Release\net6.0\ref\RTPPlugin.dll
